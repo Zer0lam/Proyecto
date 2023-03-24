@@ -62,6 +62,7 @@ public class FRMusuario extends javax.swing.JFrame {
         jLabel5.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
         jLabel5.setText("Formulario");
 
+        btnContinuar.setBackground(new java.awt.Color(76, 168, 155));
         btnContinuar.setText("Continuar");
         btnContinuar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
